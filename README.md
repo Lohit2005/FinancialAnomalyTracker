@@ -51,7 +51,7 @@ Anomaly_detection_cobblestone/
 ### 2.Clone the Repository
 To clone the repository, use the following command:
 ```bash
-git clone https://github.com/Malini04/Anomaly_detection_cobblestone.git
+git clone https://github.com/Lohit2005/FinancialAnomalyTracker
 ```
 
 ### 3.Install Requirements
