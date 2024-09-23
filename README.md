@@ -57,7 +57,7 @@ git clone https://github.com/Lohit2005/FinancialAnomalyTracker
 ### 3.Install Requirements
 Navigate to the project directory and install the required packages using the following command:
 ```bash
-cd Anomaly_detection_cobblestone
+cd FinancialAnomalyTracker
 ```
 ### 4.Install Dependencies
 ```bash
