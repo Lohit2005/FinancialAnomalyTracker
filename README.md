@@ -13,7 +13,12 @@ The project employs the **Credit Card Fraud Detection** dataset from Kaggle. It 
 
 ### Data Preview
 Sample data format:
-Time, V1, V2, ..., V28, Amount, Class 0, -1.35980713, 1.19185711, ..., -0.05395037, 149.62, 0 1, -1.35835305, 2.29212882, ..., 0.25542586, 2.69, 0 ...
+```plaintext
+Time, V1, V2, V3, ..., V28, Amount, Class
+0, -1.35980713, 1.19185711, ..., -0.05395037, 149.62, 0
+1, -1.35835305, 2.29212882, ..., 0.25542586, 2.69, 0
+2, -0.96662024, 0.36188434, ..., 0.19811233, 378.66, 0
+...
 
 ## Getting Started
 
@@ -23,7 +28,14 @@ Ensure that you have the following installed on your machine:
 - pip (Python package manager)
 
 ### Project Structure
-Efficient_Data_Stream_Anomaly_Detection/ │ ├── anomaly_detection.py # Main script for anomaly detection. ├── requirements.txt # List of required Python packages. ├── .gitignore # Files to ignore in the repository. ├── README.md # Project documentation. └── creditcard.csv # The dataset for credit card transactions.
+Efficient_Data_Stream_Anomaly_Detection/
+│
+├── anomaly_detection.py        # Main script for anomaly detection.
+├── requirements.txt            # List of required Python packages.
+├── .gitignore                  # Files to ignore in the repository.
+├── README.md                   # Project documentation.
+└── creditcard.csv              # The dataset for credit card transactions.
+
 
 ### Setting Up the Project
 
